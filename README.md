@@ -129,9 +129,16 @@ This is an example of how to list things you need to use the software and how to
 1. Download pycharm and install its default prerequisites.
 2. Download all the files.
 3. The required packages are easily installed by just hovering on the red underline of the codes and directly installed from there.
-<!--   ```sh
-   git clone https://github.com/putera-ilham/personal-portfolio-wbpg.git
-   ``` -->
+
+### Things to Note
+
+1. The topic of the questions can be set differently by user.
+2. Go to the website below. And set your own difficulty and category for your questions.
+   ```sh
+   https://opentdb.com/api_config.php
+   ```
+3. Generate the API URL and enter it to your search bar.
+4. Then, you can copy the generated questions and copy it into the data.py file.
 <!--3. Install NPM packages
    ```sh
    npm install
