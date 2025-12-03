@@ -36,7 +36,7 @@
 <h3 align="center">Coffee Maker</h3>
 
   <p align="center">
-    My first python application project where you can order a coffee.
+    A python application project where you can run a quiz game of true or false.
     <br />
     <br />
    <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a> -->
@@ -85,8 +85,8 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This python project allows user to order a coffee, find out the balance that was returned and the remaining ingredients left in the coffee maker machine.
- `putera-ilham`, `Coffee-Maker`.
+This python project allows user to deploy a quiz game of True or False for other users to test their knowledge on specific themes or topics.
+ `putera-ilham`, `Quiz-Game`.
  <!-- `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
