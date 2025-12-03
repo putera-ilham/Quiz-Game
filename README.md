@@ -33,7 +33,7 @@
     <!--<img src="images/logo.png" alt="Logo" width="80" height="80">  -->
   </a>
 
-<h3 align="center">Coffee Maker</h3>
+<h3 align="center">Quiz Game</h3>
 
   <p align="center">
     A python application project where you can run a quiz game of true or false.
